@@ -9,20 +9,21 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Accredian Enterprise — The Future Is Built, Not Taught",
+  title: "Savvvy — Turn Saved Video Into Instant, Structured Knowledge",
   description:
-    "Enterprise workforce transformation through AI-powered learning. Knowledge becomes systems. Systems become organizations. Organizations become transformation.",
+    "Turn saved short-form video into instant, structured knowledge with Savvvy Knowledge Engine.",
   keywords: [
-    "enterprise learning",
-    "workforce transformation",
-    "AI upskilling",
-    "corporate training",
-    "Accredian",
+    "Savvvy",
+    "Knowledge Engine",
+    "Short-form video",
+    "Instant knowledge",
+    "Whisper transcription",
+    "Semantic retrieval",
   ],
   openGraph: {
-    title: "Accredian Enterprise — The Future Is Built, Not Taught",
+    title: "Savvvy — Turn Saved Video Into Instant, Structured Knowledge",
     description:
-      "Enterprise workforce transformation through AI-powered learning.",
+      "Turn saved short-form video into instant, structured knowledge with Savvvy Knowledge Engine.",
     type: "website",
   },
 };

@@ -1,4 +1,4 @@
-# Accredian Enterprise — Production-Quality Landing Page
+# Savvvy — Turn Saved Video Into Instant, Structured Knowledge
 
 A **fully responsive, 3D interactive enterprise learning platform** built with Next.js, GSAP animations, and modern web technologies. This is a custom implementation of the Accredian Enterprise website featuring cinematic scroll-triggered animations, lead capture integration, and mobile-first art direction.
 
@@ -396,7 +396,7 @@ This project demonstrates:
 
 ## 📈 SEO & Metadata
 
-- ✅ Meta title: "Accredian Enterprise — The Future Is Built, Not Taught"
+- ✅ Meta title: "Savvvy — Turn Saved Video Into Instant, Structured Knowledge"
 - ✅ Meta description: Enterprise learning platform tagline
 - ✅ Open Graph tags for social sharing
 - ✅ Responsive meta viewport
