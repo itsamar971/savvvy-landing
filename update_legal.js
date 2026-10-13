@@ -6,7 +6,8 @@ const pages = [
   { file: 'app/terms/page.tsx', num: '02', title: 'TERMS &<br/>CONDITIONS', name: 'TermsAndConditions' },
   { file: 'app/refund/page.tsx', num: '03', title: 'REFUND<br/>POLICY', name: 'RefundPolicy' },
   { file: 'app/data-storing/page.tsx', num: '04', title: 'DATA<br/>STORING', name: 'DataStoring' },
-  { file: 'app/cookies/page.tsx', num: '05', title: 'COOKIE<br/>SETTINGS', name: 'CookieSettings' }
+  { file: 'app/cookies/page.tsx', num: '05', title: 'COOKIE<br/>SETTINGS', name: 'CookieSettings' },
+  { file: 'app/delete-account/page.tsx', num: '06', title: 'DELETE<br/>ACCOUNT', name: 'DeleteAccount' }
 ];
 
 pages.forEach(p => {

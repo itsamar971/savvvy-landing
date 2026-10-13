@@ -130,6 +130,7 @@ export default function CTAScene() {
               { label: "Refund Policy", href: "/refund" },
               { label: "Data Storing", href: "/data-storing" },
               { label: "Cookie Settings", href: "/cookies" },
+              { label: "Delete Account", href: "/delete-account" },
             ] as { label: string; href: string }[]).map((item) => (
               <a
                 key={item.label}
